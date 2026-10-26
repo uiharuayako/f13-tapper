@@ -1,0 +1,17 @@
+# Publish only this application's explicitly listed source files.
+*
+!.gitignore
+!README.md
+!LICENSE
+!requirements-build.txt
+!build.ps1
+!version_info.txt
+!f13_core.py
+!f13_gui.py
+!tests/
+!tests/test_core.py
+!docs/
+!docs/verification.md
+!.github/
+!.github/workflows/
+!.github/workflows/build.yml
